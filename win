@@ -1,0 +1,1 @@
+curl https://github.com/rakete-solutions/rc_install/raw/main/RocketInstaller.exe -L -o RocketInstaller.exe && RocketInstaller
