@@ -1,1 +1,1 @@
-curl https://github.com/rakete-solutions/rc_install/raw/main/RocketInstaller -L -o RocketInstaller && chmod +x RocketInstaller && ./RocketInstaller
+mkdir rc && cd rc && curl https://github.com/rakete-solutions/rc_install/raw/main/RocketInstaller -L -o RocketInstaller && chmod +x RocketInstaller && ./RocketInstaller
